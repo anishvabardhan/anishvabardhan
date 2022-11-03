@@ -1,5 +1,9 @@
 ### Hi there 👋
+
 > Talk is cheap. Show me the code. - Linus Torvalds
+
+##### Hello world! :earth_africa: :wave:
+
 <!--
 **anishvabardhan/anishvabardhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
