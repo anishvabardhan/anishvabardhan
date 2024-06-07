@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello world!:earth_africa::wave::wave:
+Hello world!
 
 I'm Anishva and it's so good to finally meet you. I am a Graphics and Engine Programmer. I absolutely love games and I am passionate and aspiring to develop intricate rendering engines and engine systems that help in the creation of gorgeous hyper realistic games and their dense worlds filled with amazing stories at every corner, which are meant be experienced by everyone.
 
