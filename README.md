@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]([https://www.linkedin.com/in/rahulguptagamedev/](https://www.linkedin.com/in/anishva-bardhan/))
-[![Portfolio Website Badge](https://img.shields.io/badge/Potfolio-Website-informational)]([https://www.rahulguptagamedev.com/](https://www.anishvabardhan.com/))
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/anishva-bardhan/)
+[![Portfolio Website Badge](https://img.shields.io/badge/Potfolio-Website-informational)](https://www.anishvabardhan.com/)
 
 Hello world!
 
