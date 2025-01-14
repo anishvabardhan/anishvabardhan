@@ -17,6 +17,11 @@ If I have been able to pique your interest, do [Check out my portfolio.](https:/
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=anishvabardhan&repo=PolyTree-Engine&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
+<a href="https://github.com/anishvabardhan/Simple_Miner">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=anishvabardhan&repo=Simple_Miner&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<br>
+
 <a href="https://github.com/anishvabardhan/Doomenstein">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=anishvabardhan&repo=Doomenstein&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
