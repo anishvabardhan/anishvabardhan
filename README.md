@@ -30,21 +30,6 @@
 <br>
 <br>
 
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-<a href="https://github.com/anishvabardhan">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishvabardhan&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/anishvabardhan">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=anishvabardhan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
-
-<br>
-<br>
-
 # 👋 Hi, I'm Anishva
 <p align="center">
   <a href="https://www.anishvabardhan.com/">
@@ -70,25 +55,37 @@ Here are some of my pinned and active repositories:
 <table>
   <tr>
     <td>
-      <a href="https://github.com/JoggingCloud/3D-Multi-Threaded-AI-Navigation-with-Pathfinding-and-Obstacle-Avoidance">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoggingCloud&repo=3D-Multi-Threaded-AI-Navigation-with-Pathfinding-and-Obstacle-Avoidance&theme=github_dark&cache_seconds=1"/>
+      <a href="https://github.com/anishvabardhan/PolyTree-Engine">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anishvabardhan&repo=PolyTree-Engine&theme=github_dark&cache_seconds=1"/>
       </a>
     </td>
     <td>
-      <a href="https://github.com/JoggingCloud/The-Maze">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoggingCloud&repo=The-Maze&theme=github_dark&cache_seconds=1"/>
+      <a href="https://github.com/anishvabardhan/Simple_Miner">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anishvabardhan&repo=Simple_Miner&theme=github_dark&cache_seconds=1"/>
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/JoggingCloud/Markov-Chain-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoggingCloud&repo=Markov-Chain-System&theme=github_dark&cache_seconds=1"/>
+      <a href="https://github.com/anishvabardhan/Doomenstein">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anishvabardhan&repo=Doomenstein&theme=github_dark&cache_seconds=1"/>
       </a>
     </td>
     <td>
-      <a href="https://github.com/JoggingCloud/Navisyn-Engine">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoggingCloud&repo=Navisyn-Engine&theme=github_dark&cache_seconds=1"/>
+      <a href="https://github.com/anishvabardhan/Protogame3D">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anishvabardhan&repo=Protogame3D&theme=github_dark&cache_seconds=1"/>
+      </a>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://github.com/anishvabardhan/Starship">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anishvabardhan&repo=Starship&theme=github_dark&cache_seconds=1"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anishvabardhan/Protogame2D">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anishvabardhan&repo=Protogame2D&theme=github_dark&cache_seconds=1"/>
       </a>
     </td>
   </tr>
@@ -99,14 +96,14 @@ Here are some of my pinned and active repositories:
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoggingCloud\&layout=compact\&theme=tokyonight\&hide_border=true\&cache_seconds=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anishvabardhan\&layout=compact\&theme=tokyonight\&hide_border=true\&cache_seconds=1)
 
-![JoggingCloud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoggingCloud\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true\&include_all_commits=true\&cache_seconds=1)
+![Anishva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anishvabardhan\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true\&include_all_commits=true\&cache_seconds=1)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JoggingCloud\&theme=tokyonight\&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=anishvabardhan\&theme=tokyonight\&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
-> 🔍 Looking to collaborate on AI-heavy systems, and or other gameplay systems.
+> 🔍 Looking to collaborate on Graphics-heavy systems, and or other gameplay systems.
 
 Thanks for stopping by!
