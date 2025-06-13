@@ -1,14 +1,3 @@
-### Hi there 👋
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/anishva-bardhan/)
-[![Portfolio Website Badge](https://img.shields.io/badge/Potfolio-Website-informational)](https://www.anishvabardhan.com/)
-
-Hello world!
-
-I'm Anishva and it's so good to finally meet you. I am a Graphics and Engine Programmer. I absolutely love games and I am passionate and aspiring to develop intricate rendering engines and engine systems that help in the creation of gorgeous hyper realistic games and their dense worlds filled with amazing stories at every corner, which are meant be experienced by everyone.
-
-If I have been able to pique your interest, do [Check out my portfolio.](https://www.anishvabardhan.com)
-
 ## 📌 Pinned Repositories
 
 <br>
@@ -58,18 +47,18 @@ If I have been able to pique your interest, do [Check out my portfolio.](https:/
 
 # 👋 Hi, I'm Anishva
 <p align="center">
-  <a href="https://sites.google.com/view/jabari-belgrave/home">
+  <a href="https://www.anishvabardhan.com/">
     <img src="https://img.shields.io/badge/Visit-Portfolio-blue?style=plastic" alt="Portfolio Badge">
   </a>
-  <a href="https://www.linkedin.com/in/jabaribelgrave/">
+  <a href="https://www.linkedin.com/in/anishva-bardhan/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
 </p>
-I'm an AI Programmer with a strong focus on real-time mutli-threaded navigation, and game AI systems. My work spans from custom pathfinding systems such as A* to velocity-based avoidance algorithms, and probabilistic modeling, and I've built everything in a fully custom C++ engine.
+Hello world!
 
-* 💡 AI Specialization
-* 🧠 Passionate about AI, optimization, and system design
-* 💬 I love talking about AI pathfinding, and AI systems
+I'm Anishva and it's so good to finally meet you. I am a Graphics and Engine Programmer. I absolutely love games and I am passionate and aspiring to develop intricate rendering engines and engine systems that help in the creation of gorgeous hyper realistic games and their dense worlds filled with amazing stories at every corner, which are meant be experienced by everyone.
+
+If I have been able to pique your interest, do [Check out my portfolio.](https://www.anishvabardhan.com)
 
 ---
 
