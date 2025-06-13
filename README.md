@@ -1,35 +1,3 @@
-## 📌 Pinned Repositories
-
-<br>
-
-<a href="https://github.com/anishvabardhan/PolyTree-Engine">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=anishvabardhan&repo=PolyTree-Engine&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/anishvabardhan/Simple_Miner">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=anishvabardhan&repo=Simple_Miner&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<br>
-
-<a href="https://github.com/anishvabardhan/Doomenstein">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=anishvabardhan&repo=Doomenstein&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/anishvabardhan/Protogame3D">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=anishvabardhan&repo=Protogame3D&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<br>
-
-<a href="https://github.com/anishvabardhan/Starship">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=anishvabardhan&repo=Starship&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/anishvabardhan/Protogame2D">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=anishvabardhan&repo=Protogame2D&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<br>
-<br>
-
 # 👋 Hi, I'm Anishva
 <p align="center">
   <a href="https://www.anishvabardhan.com/">
